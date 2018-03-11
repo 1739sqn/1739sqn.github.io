@@ -1,3 +1,7 @@
+---
+layout: full-width
+---
+
 <div class="position-relative overflow-hidden p-3 p-md-5 my-md-3 text-center bg-light">
   <div class="col-md-5 mx-auto my-2" markdown="1">
 
