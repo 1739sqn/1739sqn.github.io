@@ -7,3 +7,5 @@ If you have hobbies or activities that you do with or within school or cadets th
 Below are some of the badges achievable in the ATC;
 
 ![Syllabus](./syllabus.webp)
+
+You can earn certain badges progressively throughout your time in the ATC. Certain badges may have age restrictions depending on what the courses involve.The badjes range from blue to gold in the subjective area and the coures become gradualy harder as you progress through the syllabus.
