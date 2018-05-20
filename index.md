@@ -17,7 +17,7 @@ Air Training Corps
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h2>{{ section.title }}</h2>
+          <h2 class="text-center">{{ section.title }}</h2>
           {{ section.content }}
         </div>
       </div>

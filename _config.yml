@@ -2,3 +2,6 @@ title: 1739 Sqn ATC
 
 collections:
   - sections
+
+kramdown:
+  header_offset: 3
