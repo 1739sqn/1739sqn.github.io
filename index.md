@@ -1,32 +1,34 @@
-<div class="hero">
-  <div class="container" markdown="1">
-
-![logo](/logo.svg)
-{: .float-right}
-
-1739 Squadron
-===================
-{: .display-4 .font-weight-normal}
-
-Air Training Corps
-------------------
-{: .display-5 .font-weight-normal}
-
-  </div>
-</div>
+---
+title: 1739 Squadron
+---
 
 {% comment %}
 -----------------------------------------------------------------------------------
 
-Unless you know what you're doing, you probably don't want to edit below this line.
+Unless you know what you're doing, you probably don't want to edit this file.
 
 Content for sections can be found in _sections/
 The border photos can be found in assets/border_photos
 
-The following joins the sections together with their border photos
+The following adds a title, and joins the sections together with their border photos
 
 -----------------------------------------------------------------------------------
 {% endcomment %}
+
+<div class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-9">
+        <h1 class="display-4 font-weight-normal">1739 Squadron</h1>
+        <h2 class="display-5 font-weight-normal">Air Training Corps</h2>
+      </div>
+
+      <div class="col-md-3 text-right" style="margin-top: 10px">
+        <img src="/logo.svg" alt="RAFAC Logo" />
+      </div>
+    </div>
+  </div>
+</div>
 
 {% for section in site.sections %}
   {% assign title_slug = section.title | slugify %}
