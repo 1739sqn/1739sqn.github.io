@@ -1,5 +1,6 @@
 ---
 title: What We Do
+classes: what-we-do
 ---
 
 As a cadet, you'll have opportunites to participate in:

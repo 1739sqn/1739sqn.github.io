@@ -13,7 +13,7 @@ Air Training Corps
 </div>
 
 {% for section in site.sections %}
-  <section id="{{ section.title | slugify }}" class="section">
+  <section id="{{ section.title | slugify }}" class="section {{ section.classes }}">
     <div class="container">
       <div class="row">
         <div class="col-md-12">

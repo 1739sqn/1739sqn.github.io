@@ -15,3 +15,21 @@ $color-title-blue: #002e63;
   border-top: $color-accent-blue 2px solid;
   padding: 2em 0;
 }
+
+.section h2 {
+  margin-bottom: 1em;
+}
+
+.what-we-do {
+  text-align: center;
+}
+
+.what-we-do ul {
+  display: block;
+  padding-left: 0;
+}
+
+.what-we-do li {
+  display: inline-block;
+  width: 33%;
+}

@@ -24,8 +24,10 @@ title: Contact
   <div class="col-md-4 text-center">
     <h4>Telephone</h4>
 
-    <a href="tel:01315619811">0131 561 9811</a>
-
-    (opening hours only)
+    <p>
+      <a href="tel:01315619811">0131 561 9811</a>
+      <br>
+      (parade nights only)
+    </p>
   </div>
 </div>
