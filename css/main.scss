@@ -13,11 +13,23 @@ $color-title-blue: #002e63;
 
 .section {
   border-top: $color-accent-blue 2px solid;
+  border-bottom: $color-accent-blue 2px solid;
   padding: 2em 0;
 }
 
 .section h2 {
   margin-bottom: 1em;
+}
+
+.border-photos {
+  background-color: $color-title-blue;
+}
+
+.border-photo {
+  background-position: top;
+  background-size: cover;
+  height: 200px;
+  margin: 15px 0;
 }
 
 .what-we-do {
