@@ -1,6 +1,9 @@
 <div class="hero">
   <div class="container" markdown="1">
 
+![logo](/logo.svg)
+{: .float-right}
+
 1739 Squadron
 ===================
 {: .display-4 .font-weight-normal}
