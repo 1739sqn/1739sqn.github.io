@@ -1,0 +1,47 @@
+---
+---
+
+$color-accent-blue: #1a75cf;
+$color-supporting-blue: #7d99ba;
+$color-title-blue: #002e63;
+
+.hero {
+  background-color: $color-title-blue;
+  color: #fff;
+  padding: 2em 0;
+}
+
+.section {
+  border-top: $color-accent-blue 2px solid;
+  border-bottom: $color-accent-blue 2px solid;
+  padding: 2em 0;
+}
+
+.section h2 {
+  margin-bottom: 1em;
+}
+
+.border-photos {
+  background-color: $color-title-blue;
+}
+
+.border-photo {
+  background-position: top;
+  background-size: cover;
+  height: 200px;
+  margin: 15px 0;
+}
+
+.what-we-do {
+  text-align: center;
+}
+
+.what-we-do ul {
+  display: block;
+  padding-left: 0;
+}
+
+.what-we-do li {
+  display: inline-block;
+  width: 33%;
+}
