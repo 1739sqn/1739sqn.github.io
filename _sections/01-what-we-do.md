@@ -1,6 +1,13 @@
 ---
-title: What we do
+title: What We Do
 ---
 
-some of the fantastic 5things we do are things like
-flying/gliding   heartstart/first aid   raidio/coms
+As a cadet, you'll have opportunites to participate in:
+
+* Flying and gliding
+* Adventurous training
+* Shooting
+* DofE Award
+* Sports
+* Music
+* Formal parades and drill
