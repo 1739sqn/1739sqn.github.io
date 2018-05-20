@@ -1,11 +1,14 @@
----
-layout: full-width
----
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
 
-<main role="main" class="container">
-  <div class="row">
-    <div class="col-md-12">
-      {{ content }}
-    </div>
-  </div>
-</main>
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/main.css" />
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>

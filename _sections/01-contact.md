@@ -1,5 +1,6 @@
-Contact Us
-==========
+---
+title: Contact
+---
 
 Email
 -----

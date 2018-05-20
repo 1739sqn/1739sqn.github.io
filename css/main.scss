@@ -1,0 +1,17 @@
+---
+---
+
+$color-accent-blue: #1a75cf;
+$color-supporting-blue: #7d99ba;
+$color-title-blue: #002e63;
+
+.hero {
+  background-color: $color-title-blue;
+  color: #fff;
+  padding: 2em 0;
+}
+
+.section {
+  border-top: $color-accent-blue 2px solid;
+  padding: 2em 0;
+}
